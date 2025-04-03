@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mí 
 🎯 Apasionado por la programación y el análisis de datos.  
-🛠️ Me especializo en React, TypeScript, Tailwind, Python y más.  
+🛠️ Me especializo en React, TypeScript, Tailwind, JavaScript y más.  
 💡 Actualmente, trabajo en SEIDOR Analytics y desarrollo mi startup **Novalion**.  
 
 ---
@@ -28,13 +28,13 @@
 ---
 
 ## 📊 Estadísticas de GitHub
-![JuliosLeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliosLeon&show_icons=true&theme=tokyonight)
+![JuliosLeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julios-Leon&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliosLeon&layout=compact&theme=tokyonight)](https://github.com/JuliosLeon)
 
 ---
 
 ## 🌍 Conéctate conmigo
-📧 [Email](mailto:juliosleon@example.com)  
-💼 [LinkedIn](https://linkedin.com/in/juliosleon)  
-🌐 [Portafolio](https://juliosleon.dev)
+📧 [Email](mailto:juliosmikel@gmail.com)  
+💼 [LinkedIn](https://linkedin.com/in/julios-leon)  
+🌐 [Portafolio](https://juliosleon.com)
