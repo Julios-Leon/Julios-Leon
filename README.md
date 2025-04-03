@@ -22,9 +22,8 @@
 ---
 
 ## 📌 Proyectos Destacados
-🔹 [Dataler](https://github.com/JuliosLeon/Dataler) - Plataforma de análisis de datos con visualizaciones interactivas.  
-🔹 [TekkenMusic](https://github.com/JuliosLeon/TekkenMusic) - Aplicación para escuchar música de Tekken.  
-🔹 [Gestor de Facturas](https://github.com/JuliosLeon/FacturaApp) - Crea y gestiona facturas de forma intuitiva.  
+🔹 [Dataler](https://dataler.vercel.app/) - Plataforma de análisis de datos con visualizaciones interactivas.  
+🔹 [Novalion](https://novalion.es) - Web de mi startup
 
 ---
 
