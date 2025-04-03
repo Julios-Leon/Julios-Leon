@@ -28,9 +28,9 @@
 ---
 
 ## 📊 Estadísticas de GitHub
-![JuliosLeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julios-Leon&show_icons=true&theme=tokyonight)
+![Julios-Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julios-Leon&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliosLeon&layout=compact&theme=tokyonight)](https://github.com/JuliosLeon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julios-Leon&layout=compact&theme=tokyonight)](https://github.com/Julios-Leon)
 
 ---
 
