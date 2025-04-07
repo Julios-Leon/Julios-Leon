@@ -1,13 +1,13 @@
 # 👋 ¡Hola! Soy Julios Leon 
 
-💻 Desarrollador web | 📊 Científico de Datos | 🚀 Emprendedor en Novalion
+💻 Desarrollador web | 📊 Científico de Datos 
 
 ---
 
 ## 🚀 Sobre mí 
 🎯 Apasionado por la programación y el análisis de datos.  
 🛠️ Me especializo en React, TypeScript, Tailwind, JavaScript y más.  
-💡 Actualmente, trabajo en SEIDOR Analytics y desarrollo mi startup **Novalion**.  
+💡 Actualmente, trabajo en SEIDOR Analytics
 
 ---
 
@@ -24,7 +24,6 @@
 
 ## 📌 Proyectos Destacados
 🔹 [Dataler](https://dataler.vercel.app/) - Plataforma de análisis de datos con visualizaciones interactivas.  
-🔹 [Novalion](https://novalion.es) - Web de mi startup
 
 ---
 
